@@ -1,8 +1,8 @@
 # 十八届智能车摄像头三轮组源码
-开发环境：AURIX-Studio-1.8.0 烧录工具：Infineon Memtool 
-F车模采用两轮差速控制：速度环串角度环， 
-摄像头采用八邻域算法 
-电磁杆采用4电感 
+开发环境：AURIX-Studio-1.8.0 烧录工具：Infineon Memtool   
+F车模采用两轮差速控制：速度环串角度环，  
+摄像头采用八邻域算法   
+电磁杆采用4电感   
 ![微信图片_20240317171823](https://github.com/Nosultion/Smart-Car/assets/116421163/e9020ba5-0393-4029-8a5f-c2d50f348acf)
 
 ## 全元素赛道视频
